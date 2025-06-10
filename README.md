@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 I am a results-driven developer with strong expertise in backend development, smart contract engineering, and artificial intelligence applications.  <br>My skill set spans from building scalable APIs with Python and Django, to developing intelligent machine learning systems, to crafting secure and efficient smart contracts on Ethereum.<br><br>Beyond my technical abilities, I take pride in being highly **responsible**, **hardworking**, and **solution-oriented**.  <br>I approach every project with a strong sense of ownership, consistently delivering clean, high-quality, and well-documented code.  <br>I enjoy solving complex problems, continuously learning, and pushing my skills to the next level.
 
 
